@@ -1,5 +1,7 @@
 desenho = """
+<<<<<<< lily
 PATRONO DE LILY
+
                        .     _,
                        |`\__/ /
                        \  . .(
